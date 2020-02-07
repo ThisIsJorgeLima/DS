@@ -50,7 +50,7 @@ df.head(3)
 
 df.tail(3)
 
-"""# **Part II - Data Exploration**"""
+""" **Part II - Data Exploration**"""
 
 df.dtypes
 """
@@ -125,7 +125,7 @@ train_data, test_data = train_test_split(df, test_size=0.20, random_state=0)
 
 df[df['artist_name'] == 'Coldplay']
 
-"""# **Part III - Visualizations**"""
+""" **Part III - Visualizations** """
 
 x = "tempo"
 y = "valence"
