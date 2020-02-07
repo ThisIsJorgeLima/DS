@@ -1,2 +1,2 @@
-# symphinity17
+# symphinity
 song suggester for spotify
